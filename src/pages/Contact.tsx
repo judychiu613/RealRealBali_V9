@@ -154,8 +154,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">{language === 'zh' ? '联络热线' : 'Phone'}</h3>
-                    <p className="text-sm text-muted-foreground">+62 361 123 4567</p>
-                    <p className="text-sm text-muted-foreground">+62 812 3456 7890 ({language === 'zh' ? 'WhatsApp 可用' : 'WhatsApp Available'})</p>
+                    <p className="text-sm text-muted-foreground">+62 0813 3067 5465({language === 'zh' ? 'Whatsapp 可用' : 'Whatsapp Available'})</p>
+                    <p className="text-sm text-muted-foreground">+86 156 0600 2201 ({language === 'zh' ? 'Wechat 可用' : 'Wechat Available'})</p>
                   </div>
                 </div>
 
@@ -165,8 +165,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">{language === 'zh' ? '电子邮件' : 'Email'}</h3>
-                    <p className="text-sm text-muted-foreground">concierge@realreal-bali.com</p>
-                    <p className="text-sm text-muted-foreground">investment@realreal-bali.com</p>
+                    <p className="text-sm text-muted-foreground">Judy@realrealbali.com</p>
                   </div>
                 </div>
 
