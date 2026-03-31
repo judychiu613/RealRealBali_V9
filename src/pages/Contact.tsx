@@ -165,6 +165,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">{language === 'zh' ? '电子邮件' : 'Email'}</h3>
+                     <p className="text-sm text-muted-foreground">Hello@realrealbali.com</p>
                     <p className="text-sm text-muted-foreground">Judy@realrealbali.com</p>
                   </div>
                 </div>
